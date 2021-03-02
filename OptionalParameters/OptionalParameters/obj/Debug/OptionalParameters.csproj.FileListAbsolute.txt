@@ -1,0 +1,7 @@
+C:\Handson\OptionalParameters\OptionalParameters\bin\Debug\OptionalParameters.exe.config
+C:\Handson\OptionalParameters\OptionalParameters\bin\Debug\OptionalParameters.exe
+C:\Handson\OptionalParameters\OptionalParameters\bin\Debug\OptionalParameters.pdb
+C:\Handson\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.csprojAssemblyReference.cache
+C:\Handson\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.csproj.CoreCompileInputs.cache
+C:\Handson\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.exe
+C:\Handson\OptionalParameters\OptionalParameters\obj\Debug\OptionalParameters.pdb

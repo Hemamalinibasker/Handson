@@ -1,0 +1,6 @@
+C:\Handson\NamedParameters\NamedParameters\bin\Debug\NamedParameters.exe.config
+C:\Handson\NamedParameters\NamedParameters\bin\Debug\NamedParameters.exe
+C:\Handson\NamedParameters\NamedParameters\bin\Debug\NamedParameters.pdb
+C:\Handson\NamedParameters\NamedParameters\obj\Debug\NamedParameters.csproj.CoreCompileInputs.cache
+C:\Handson\NamedParameters\NamedParameters\obj\Debug\NamedParameters.exe
+C:\Handson\NamedParameters\NamedParameters\obj\Debug\NamedParameters.pdb

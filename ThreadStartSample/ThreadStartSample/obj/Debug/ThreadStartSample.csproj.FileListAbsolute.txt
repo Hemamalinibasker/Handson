@@ -1,0 +1,7 @@
+C:\Handson\ThreadStartSample\ThreadStartSample\bin\Debug\ThreadStartSample.exe.config
+C:\Handson\ThreadStartSample\ThreadStartSample\bin\Debug\ThreadStartSample.exe
+C:\Handson\ThreadStartSample\ThreadStartSample\bin\Debug\ThreadStartSample.pdb
+C:\Handson\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.csprojAssemblyReference.cache
+C:\Handson\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.csproj.CoreCompileInputs.cache
+C:\Handson\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.exe
+C:\Handson\ThreadStartSample\ThreadStartSample\obj\Debug\ThreadStartSample.pdb

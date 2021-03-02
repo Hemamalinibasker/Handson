@@ -1,0 +1,7 @@
+C:\Handson\Nunit_handson\Nunit_handson\bin\Debug\Nunit_handson.exe.config
+C:\Handson\Nunit_handson\Nunit_handson\bin\Debug\Nunit_handson.exe
+C:\Handson\Nunit_handson\Nunit_handson\bin\Debug\Nunit_handson.pdb
+C:\Handson\Nunit_handson\Nunit_handson\obj\Debug\Nunit_handson.csprojAssemblyReference.cache
+C:\Handson\Nunit_handson\Nunit_handson\obj\Debug\Nunit_handson.csproj.CoreCompileInputs.cache
+C:\Handson\Nunit_handson\Nunit_handson\obj\Debug\Nunit_handson.exe
+C:\Handson\Nunit_handson\Nunit_handson\obj\Debug\Nunit_handson.pdb

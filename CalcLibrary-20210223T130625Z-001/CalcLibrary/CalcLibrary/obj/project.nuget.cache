@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "juWS2sUgpSoVPVMNDS0fU0OR1fVd9y8QIYzS8DZVbSoFnDKJSJeSMAqS7cVBiUOTCDlk6awIdqvCe08uAeAxRQ==",
+  "success": true,
+  "projectFilePath": "C:\\Handson\\CalcLibrary-20210223T130625Z-001\\CalcLibrary\\CalcLibrary\\CalcLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhema\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\bhema\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,6 @@
+C:\Handson\PlayersManagerLib\PlayersManagerLib\bin\Debug\PlayersManagerLib.dll
+C:\Handson\PlayersManagerLib\PlayersManagerLib\bin\Debug\PlayersManagerLib.pdb
+C:\Handson\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.csprojAssemblyReference.cache
+C:\Handson\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.csproj.CoreCompileInputs.cache
+C:\Handson\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.dll
+C:\Handson\PlayersManagerLib\PlayersManagerLib\obj\Debug\PlayersManagerLib.pdb

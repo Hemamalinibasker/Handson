@@ -1,0 +1,7 @@
+C:\Handson\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe.config
+C:\Handson\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe
+C:\Handson\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.pdb
+C:\Handson\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csproj.CoreCompileInputs.cache
+C:\Handson\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.exe
+C:\Handson\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.pdb
+C:\Handson\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.csprojAssemblyReference.cache

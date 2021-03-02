@@ -1,0 +1,6 @@
+C:\Handson\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.csprojAssemblyReference.cache
+C:\Handson\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.csproj.CoreCompileInputs.cache
+C:\Handson\MagicFilesLib\MagicFilesLib\bin\Debug\MagicFilesLib.dll
+C:\Handson\MagicFilesLib\MagicFilesLib\bin\Debug\MagicFilesLib.pdb
+C:\Handson\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.dll
+C:\Handson\MagicFilesLib\MagicFilesLib\obj\Debug\MagicFilesLib.pdb
