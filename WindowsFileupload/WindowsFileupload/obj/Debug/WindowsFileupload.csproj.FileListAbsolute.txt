@@ -1,0 +1,10 @@
+C:\Handson\WindowsFileupload\WindowsFileupload\bin\Debug\WindowsFileupload.exe.config
+C:\Handson\WindowsFileupload\WindowsFileupload\bin\Debug\WindowsFileupload.exe
+C:\Handson\WindowsFileupload\WindowsFileupload\bin\Debug\WindowsFileupload.pdb
+C:\Handson\WindowsFileupload\WindowsFileupload\obj\Debug\WindowsFileupload.csprojAssemblyReference.cache
+C:\Handson\WindowsFileupload\WindowsFileupload\obj\Debug\WindowsFileupload.Form1.resources
+C:\Handson\WindowsFileupload\WindowsFileupload\obj\Debug\WindowsFileupload.Properties.Resources.resources
+C:\Handson\WindowsFileupload\WindowsFileupload\obj\Debug\WindowsFileupload.csproj.GenerateResource.cache
+C:\Handson\WindowsFileupload\WindowsFileupload\obj\Debug\WindowsFileupload.csproj.CoreCompileInputs.cache
+C:\Handson\WindowsFileupload\WindowsFileupload\obj\Debug\WindowsFileupload.exe
+C:\Handson\WindowsFileupload\WindowsFileupload\obj\Debug\WindowsFileupload.pdb

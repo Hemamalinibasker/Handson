@@ -1,0 +1,10 @@
+C:\Handson\CalculatorWindowsForms\CalculatorWindowsForms\bin\Debug\CalculatorWindowsForms.exe.config
+C:\Handson\CalculatorWindowsForms\CalculatorWindowsForms\bin\Debug\CalculatorWindowsForms.exe
+C:\Handson\CalculatorWindowsForms\CalculatorWindowsForms\bin\Debug\CalculatorWindowsForms.pdb
+C:\Handson\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.csprojAssemblyReference.cache
+C:\Handson\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.Form1.resources
+C:\Handson\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.Properties.Resources.resources
+C:\Handson\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.csproj.GenerateResource.cache
+C:\Handson\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.csproj.CoreCompileInputs.cache
+C:\Handson\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.exe
+C:\Handson\CalculatorWindowsForms\CalculatorWindowsForms\obj\Debug\CalculatorWindowsForms.pdb
