@@ -1,0 +1,10 @@
+C:\Handson\AsyncawaitWindowsForms\AsyncawaitWindowsForms\bin\Debug\AsyncawaitWindowsForms.exe.config
+C:\Handson\AsyncawaitWindowsForms\AsyncawaitWindowsForms\bin\Debug\AsyncawaitWindowsForms.exe
+C:\Handson\AsyncawaitWindowsForms\AsyncawaitWindowsForms\bin\Debug\AsyncawaitWindowsForms.pdb
+C:\Handson\AsyncawaitWindowsForms\AsyncawaitWindowsForms\obj\Debug\AsyncawaitWindowsForms.csprojAssemblyReference.cache
+C:\Handson\AsyncawaitWindowsForms\AsyncawaitWindowsForms\obj\Debug\AsyncawaitWindowsForms.Form1.resources
+C:\Handson\AsyncawaitWindowsForms\AsyncawaitWindowsForms\obj\Debug\AsyncawaitWindowsForms.Properties.Resources.resources
+C:\Handson\AsyncawaitWindowsForms\AsyncawaitWindowsForms\obj\Debug\AsyncawaitWindowsForms.csproj.GenerateResource.cache
+C:\Handson\AsyncawaitWindowsForms\AsyncawaitWindowsForms\obj\Debug\AsyncawaitWindowsForms.csproj.CoreCompileInputs.cache
+C:\Handson\AsyncawaitWindowsForms\AsyncawaitWindowsForms\obj\Debug\AsyncawaitWindowsForms.exe
+C:\Handson\AsyncawaitWindowsForms\AsyncawaitWindowsForms\obj\Debug\AsyncawaitWindowsForms.pdb
