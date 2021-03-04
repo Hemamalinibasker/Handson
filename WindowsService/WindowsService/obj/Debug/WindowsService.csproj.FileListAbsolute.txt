@@ -1,0 +1,9 @@
+C:\Handson\WindowsService\WindowsService\bin\Debug\WindowsService.exe.config
+C:\Handson\WindowsService\WindowsService\bin\Debug\WindowsService.exe
+C:\Handson\WindowsService\WindowsService\bin\Debug\WindowsService.pdb
+C:\Handson\WindowsService\WindowsService\obj\Debug\WindowsService.csprojAssemblyReference.cache
+C:\Handson\WindowsService\WindowsService\obj\Debug\WindowsService.ProjectInstaller.resources
+C:\Handson\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.GenerateResource.cache
+C:\Handson\WindowsService\WindowsService\obj\Debug\WindowsService.csproj.CoreCompileInputs.cache
+C:\Handson\WindowsService\WindowsService\obj\Debug\WindowsService.exe
+C:\Handson\WindowsService\WindowsService\obj\Debug\WindowsService.pdb
