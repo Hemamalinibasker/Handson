@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "veAllhS7roTku/0tYigbvaAfdTT3wf6GHETHgr+R5ILtyMPCTGFx4bb2T6uV/t9TD9TqhHz4ZDJHNv4LUO6m4g==",
+  "success": true,
+  "projectFilePath": "C:\\testingdemos\\log4net\\log4net\\log4net.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhema\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
