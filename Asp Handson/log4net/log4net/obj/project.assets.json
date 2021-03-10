@@ -46,11 +46,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\testingdemos\\log4net\\log4net\\log4net.csproj",
+      "projectUniqueName": "C:\\Handson\\Handson\\Asp Handson\\log4net\\log4net\\log4net.csproj",
       "projectName": "log4net",
-      "projectPath": "C:\\testingdemos\\log4net\\log4net\\log4net.csproj",
+      "projectPath": "C:\\Handson\\Handson\\Asp Handson\\log4net\\log4net\\log4net.csproj",
       "packagesPath": "C:\\Users\\bhema\\.nuget\\packages\\",
-      "outputPath": "C:\\testingdemos\\log4net\\log4net\\obj\\",
+      "outputPath": "C:\\Handson\\Handson\\Asp Handson\\log4net\\log4net\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\bhema\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,7 @@
+C:\Handson\Handson\Asp Handson\log4net\log4net\obj\Debug\netcoreapp3.1\log4net.csprojAssemblyReference.cache
+C:\Handson\Handson\Asp Handson\log4net\log4net\obj\Debug\netcoreapp3.1\log4net.AssemblyInfoInputs.cache
+C:\Handson\Handson\Asp Handson\log4net\log4net\obj\Debug\netcoreapp3.1\log4net.AssemblyInfo.cs
+C:\Handson\Handson\Asp Handson\log4net\log4net\obj\Debug\netcoreapp3.1\log4net.csproj.CoreCompileInputs.cache
+C:\Handson\Handson\Asp Handson\log4net\log4net\obj\Debug\netcoreapp3.1\log4net.MvcApplicationPartsAssemblyInfo.cache
+C:\Handson\Handson\Asp Handson\log4net\log4net\obj\Debug\netcoreapp3.1\log4net.RazorAssemblyInfo.cache
+C:\Handson\Handson\Asp Handson\log4net\log4net\obj\Debug\netcoreapp3.1\log4net.RazorAssemblyInfo.cs

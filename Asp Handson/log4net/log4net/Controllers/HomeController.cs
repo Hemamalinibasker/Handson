@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 
 namespace log4net.Controllers
 {
+    [HandleException]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
@@ -20,6 +21,7 @@ namespace log4net.Controllers
 
         public IActionResult Index()
         {
+            throw new Exception("Error happened in index");
             return View();
         }
 

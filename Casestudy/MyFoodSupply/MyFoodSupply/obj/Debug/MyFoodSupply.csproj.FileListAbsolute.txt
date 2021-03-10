@@ -1,0 +1,7 @@
+C:\Handson\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.exe.config
+C:\Handson\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.exe
+C:\Handson\MyFoodSupply\MyFoodSupply\bin\Debug\MyFoodSupply.pdb
+C:\Handson\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.csprojAssemblyReference.cache
+C:\Handson\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.csproj.CoreCompileInputs.cache
+C:\Handson\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.exe
+C:\Handson\MyFoodSupply\MyFoodSupply\obj\Debug\MyFoodSupply.pdb
