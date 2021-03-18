@@ -1,0 +1,26 @@
+C:\Handson\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+C:\Handson\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Handson\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Handson\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+C:\Handson\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Handson\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Handson\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Handson\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Handson\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Handson\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Handson\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Handson\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+C:\Handson\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache
+C:\Handson\Design Pattern\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.exe
+C:\Handson\Design Pattern\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Handson\Design Pattern\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.json
+C:\Handson\Design Pattern\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.runtimeconfig.dev.json
+C:\Handson\Design Pattern\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Handson\Design Pattern\Builder\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Handson\Design Pattern\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+C:\Handson\Design Pattern\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Handson\Design Pattern\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Handson\Design Pattern\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+C:\Handson\Design Pattern\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Handson\Design Pattern\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.pdb
+C:\Handson\Design Pattern\Builder\Builder\obj\Debug\netcoreapp3.1\Builder.genruntimeconfig.cache
